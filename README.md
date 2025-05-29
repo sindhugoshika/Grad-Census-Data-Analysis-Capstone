@@ -1,7 +1,7 @@
 # Data-Driven Course Design: Forecasting Graduate Course Enrollment Patterns
 
 This project was originally developed as part of INFO-698 Capstone.  
-Now maintained by Sindhu Goshika to showcase graduate-level course data analysis, visualization, and modeling.
+Now maintained by Sindhu Goshika to showcase graduate-level course data analysis, visualization, and dashboard.
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
